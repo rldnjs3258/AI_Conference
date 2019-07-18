@@ -1,3 +1,3 @@
-# Innovation_Hub_Yangjae_2019
+# AI_Conference
 
- - https://yangjaehub.elice.io
+ - This repository contains reviews of ai conferences.
